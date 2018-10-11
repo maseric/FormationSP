@@ -24,8 +24,8 @@
 
         <table id="xltTable" border="0" width="100%" cellpadding="2" cellspacing="0">
           <tr>
-            <th>Id</th>
             <th>Nom</th>
+            <th>Valeur</th>
             <th>Avatar</th>
           </tr>
           <xsl:for-each select="$Rows">
@@ -33,7 +33,7 @@
             <xsl:if test="@ID > 0">
               <tr>
                 <td>
-                  <xsl:value-of select="@ID"/>
+                  <xsl:value-of select="@Title"/>
                 </td>
                 <td>
                   <xsl:value-of select="@VALEUR"/>
