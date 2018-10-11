@@ -27,6 +27,7 @@
             <th>Nom</th>
             <th>Valeur</th>
             <th>Avatar</th>
+            <th>Equipe</th>
           </tr>
           <xsl:for-each select="$Rows">
             <xsl:sort select="@ID" order="descending" data-type="number"/>
@@ -40,6 +41,9 @@
                 </td>
                 <td class="nature">
                   <img src="{@Avatar}"/>
+                </td>
+                <td>
+                  <xsl:value-of select="@EQUIPE"/>
                 </td>
               </tr>
             </xsl:if>
