@@ -3,7 +3,7 @@ var DMRendering = DMRendering || {};
 
 //Custom function
 DMRendering.CustomizeFieldRendering = function () {
-	//alert('ici');
+	
     var customRenderingOverride = {};
     customRenderingOverride.Templates = {};
 
