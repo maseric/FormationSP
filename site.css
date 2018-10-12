@@ -1,0 +1,2054 @@
+﻿.ms-core-pageTitle, .ms-core-pageTitle a {
+    display: none;
+}
+
+div#s4-workspace {
+    background-image: url("http://srv2016/SiteAssets/Img/image2.png"), url("http://srv2016/SiteAssets/Img/image1.png");
+    background-position: right bottom, left top;
+    background-color: white;
+    background-repeat: no-repeat, repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.ms-core-header {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.ms-core-sideNavBox-removeLeftMargin {
+    display: none;
+}
+
+.ms-gb {
+    color: grey;
+}
+
+.ms-webpart-titleText > a {
+    font-family: arial narrow;
+    font-weight: bold;
+    color: white;
+    font-size: 22px;
+}
+
+    .ms-webpart-titleText > a:visited {
+        font-family: arial narrow;
+        font-weight: bold;
+        color: white;
+        font-size: 22px;
+    }
+
+    .ms-webpart-titleText > a:hover {
+        font-family: arial narrow;
+        font-weight: bold;
+        color: white;
+        text-decoration: none;
+        font-size: 22px;
+    }
+
+.ms-webpart-titleText.ms-webpart-titleText {
+    text-align: center !important;
+    color: white !important;
+    font-weight: bold;
+    font-family: arial narrow;
+    font-size: 22px;
+    background-color: rgba(10,10,10,0.8);
+}
+
+.ms-webpart-chrome-title {
+    background-color: rgba(10,10,10,0.8);
+}
+
+.ms-rte-wpbox {
+    margin-top: 20px;
+}
+
+div#s4-titlerow {
+    background-image: url("http://srv2016/SiteAssets/Img/header-01.jpg");
+    background-repeat: no-repeat;
+    background-color: rgb(0,83,51);
+    -moz-box-shadow: 0px 5px 5px 0px #9b9b9b;
+    -webkit-box-shadow: 0px 5px 5px 0px #9b9b9b;
+    -o-box-shadow: 0px 5px 5px 0px #9b9b9b;
+    box-shadow: 0px 5px 5px 0px #9b9b9b;
+    filter: progid:DXImageTransform.Microsoft.Shadow(color=#9b9b9b, Direction=180, Strength=5);
+    z-index: 20px;
+}
+
+.ms-core-listMenu-horizontalBox {
+    display: none;
+}
+
+#Table1 {
+    margin-top: 10px;
+    margin-left: 80px
+}
+
+div#div_d5638c28-c65f-410c-86cd-e3d475dc8702 {
+    margin-top: 75px;
+}
+
+img#MSOPictureLibrarySlideshowWebPart_ctl00_ctl40_g_d5638c28_c65f_410c_86cd_e3d475dc8702_curr {
+    float: left;
+}
+
+
+
+a.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode:selected {
+    border: none;
+}
+
+a.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode {
+    padding-top: 7px;
+    font-size: 14px;
+}
+
+#sideNavBox {
+    display: none;
+}
+
+#contentBox {
+    margin-left: 5px;
+}
+
+span.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode {
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    font-family: arial narrow;
+    margin-top: 20px;
+    background-color: rgba(10,10,10,0.8);
+}
+
+.ms-cui-tt-a > .ms-cui-tt-span {
+    color: white !important;
+}
+
+
+input[type=password], input[type=text], input[type=file], select, textarea, .sp-peoplepicker-topLevel, .sp-peoplepicker-topLevelDisabled, .sp-peoplepicker-autoFillContainer, .ms-inputBox {
+    color: #2e2e2e !important;
+    background-color: whiteSmoke;
+}
+
+h3, .ms-h2, .ms-h3, .ms-headerFont {
+    color: #2e2e2e !important;
+}
+
+
+#searchInputBox {
+    background-color: white;
+}
+
+.ms-core-overlay {
+    background-color: rgba(255,255,255,0);
+}
+
+.ms-srch-sb-border {
+    background-color: white;
+}
+
+
+.ms-core-header .ms-core-listMenu-item, .ms-core-header .ms-core-listMenu-item:link, .ms-core-header .ms-core-listMenu-item:visited, .ms-core-header .ms-tv-item:link, .ms-core-header .ms-tv-item:visited, .ms-core-header .ms-tv-header:link, .ms-core-header .ms-tv-header:visited {
+    color: snow;
+}
+
+
+
+.ms-vb2 a.ms-listlink, .ms-vb-user a.ms-listlink, .ms-vb a.ms-listlink:visited, .ms-vb a.ms-listlink:visited:hover {
+    color: black;
+}
+
+.ms-cui-topBar2 {
+    border-color: rgb(0,83,51);
+}
+
+
+
+th .ms-vb a, .ms-vh2-nofilter-icon a {
+    color: #2e2e2e;
+}
+
+.ms-cui-ribbonTopBars {
+    background-image: url("http://srv2016/SiteAssets/Img/form-02.jpg");
+    background-repeat: no-repeat;
+    background-color: rgb(0,83,51);
+}
+
+div#suiteBarLeft {
+    background-color: rgb(0,83,51);
+    background-image: url("http://srv2016/SiteAssets/Img/form-03.jpg");
+}
+
+#suiteBarLeft {
+    background-color: rgb(0,83,51);
+}
+
+#suiteBarRight {
+    background-color: rgb(0,83,51);
+}
+
+
+.ms-siteicon-img {
+    display: none;
+}
+
+
+.ms-core-brandingText {
+    display: none;
+}
+
+.ms-core-defaultFont {
+    color: whiteSmoke;
+}
+
+.js-callout-body {
+    color: grey;
+}
+
+body {
+    color: rgba(110, 113, 87, 1);
+}
+
+.ms-core-listMenu-item, .ms-core-listMenu-item:link, .ms-core-listMenu-item:visited, .ms-tv-item:link, .ms-tv-item:visited, .ms-tv-header:link, .ms-tv-header:visited {
+    color: #2E2E2E;
+}
+
+.ms-belltown-pageName, .ms-belltown-pageName a {
+    color: rgba(110, 113, 87, 1);
+    font-family: Arial Narrow;
+    text-transform: uppercase;
+}
+
+
+.ms-newdoc-callout-item:hover {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.ms-soften, .ms-soften:link, a.ms-soften:visited, .ms-soften:hover, .ms-soften:active {
+    color: grey;
+}
+
+.ms-core-listMenu-selected:link, .ms-core-listMenu-selected:visited, .ms-core-listMenu-selected {
+    background: none;
+    border: dashed;
+}
+
+.js-callout-footerArea {
+    background-color: rgba(0,0,0,0.7);
+}
+
+.ms-vl-apptilehover:hover {
+    background-color: rgba(0,0,0,0.5);
+}
+
+.ms-dlg-heading, h2.ms-dlg-heading {
+    color: rgba(0,0,0,0.7);
+}
+
+.ms-vl-apptitle, a:visited.ms-vl-apptitle {
+    color: rgba(110, 113, 87, 1);
+    font-family: Arial Narrow;
+    font-size: 16px;
+}
+
+.ms-heroCommandLink, .ms-heroCommandLink:visited {
+    font-family: Arial Narrow;
+    color: rgb(0,83,51);
+    font-size: 24px;
+}
+
+.ms-acal-apanel-title span {
+    color: rgba(10,10,10,1);
+}
+
+.ms-acal-display {
+    color: rgba(238,115,38,1);
+}
+
+.ms-acal-month-top {
+    color: rgba(0,137,169,1);
+}
+
+.ms-acal-summary-dayrow td div {
+    color: rgba(155,19,90,1);
+}
+
+.ms-vb, .ms-vb2, .ms-vb-user, .ms-vb-tall, .ms-pb, .ms-pb-selected {
+    color: #2e2e2e !important;
+}
+
+
+.ms-rteTable-1 tr.ms-rteTableHeaderRow-1, .ms-rteTable-1 tr.ms-rteTableFooterRow-1, .ms-rteTable-1 tr.ms-rteTableHeaderRow-1 > th, .ms-rteTable-1 tr.ms-rteTableFooterRow-1 > th, .ms-rteTable-1 tr.ms-rteTableFooterRow-1 > td {
+    background-color: rgba(255,255,255,0.8);
+    ../d:Emballages = xdXDocument:GetDOM("emballages")/dfs:myFields/dfs:dataFields/d:SharePointListItem_RW/d:ID[../d:Title = xdXDocument:get-DOM()/my:mesChamps/my:dd_typeContenant1]
+}
+
+
+a {
+    font-family: Arial;
+}
+
+.ms-link:visited {
+    color: #DF8C26;
+}
+
+a:visited {
+    color: #BB582B;
+}
+
+.ms-promlink-button-enabled {
+    background-color: #F2F2F2;
+    border-color: grey;
+}
+
+.ms-subtleLink:link {
+    color: rgb(145,37,84);
+}
+
+.ms-dialogBody {
+    background-color: snow;
+}
+
+a.ms-listlink, .ms-linksection-title {
+    color: rgb(234,78,76);
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.ms-linksection-title {
+    text-transform: uppercase;
+    font-family: Arial Narrow;
+}
+
+a.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode:hover {
+    color: white;
+    background-color: rgba(0,0,0,0.60);
+}
+
+a.ms-listlink.ms-draggable {
+    font-size: 12px;
+}
+
+th.ms-vh {
+    font-size: 15px;
+}
+
+th.ms-vh2 {
+    font-size: 15px;
+}
+
+a:visited {
+    color: rgb(0,137,169);
+}
+
+h3.ms-linksection-title {
+    color: rgb(145,37,84);
+}
+
+a, .ms-link:visited {
+    color: #686666;
+}
+
+.ms-vh2 a {
+    color: black;
+    font-family: Arial narrow;
+    font-size: 15px;
+}
+
+.ms-vb a.ms-listlink {
+    color: #2E2E2E;
+    font-family: Arial;
+}
+
+a.ms-heroCommandLink:hover {
+    color: rgb(145,37,84);
+}
+
+.ms-navedit-editLinksText > span > .ms-metadata {
+    color: rgb(0,0,0,0.4);
+    font-weight: bold;
+}
+
+    .ms-navedit-editLinksText > span > .ms-metadata:hover {
+        color: rgb(145,37,84);
+    }
+
+.ms-webpart-titleText.ms-webpart-titleText > span {
+    color: white;
+    font-family: arial narrow;
+}
+
+.ms-calloutLink:link {
+    color: snow;
+}
+
+.js-callout-content {
+    background-color: whiteSmoke;
+}
+
+.ms-itmHoverEnabled:hover > * {
+    background-color: rgba(0,0,0,0.6);
+}
+
+.s4-itm-selected > *, .s4-itm-selected:hover > * {
+    background-color: rgba(238,115,38,0.9);
+}
+
+.s4-itm-selected > .ms-vb-imgFirstCell.ms-vb-imgFirstCell {
+    background-color: rgba(0,0,0,0.7);
+    border-right-color: rgba(238,115,38,1);
+}
+
+.s4-itm-selected .ms-list-itemLink-td, .s4-itm-selected:hover .ms-list-itemLink-td {
+    background-color: rgba(238,115,38,1);
+}
+
+.ms-itmHoverEnabled:hover .ms-list-itemLink-td {
+    background-color: rgba(0,0,0,0.7);
+}
+
+
+.ms-metadata {
+    color: rgba(0,0,0,0.4);
+}
+
+.ms-vl-apptitle {
+    color: #2E2E2E;
+    font-size: 15px;
+}
+
+.ms-noWrap ms-imnSpan {
+    color: red;
+}
+
+.ms-accentText, .ms-accentText:visited {
+    color: snow;
+}
+
+.ms-vh a {
+    color: black;
+}
+
+
+.ms-pivotControl-surfacedOpt:hover, .ms-pivotControl-overflowDot:hover, .ms-pivotControl-surfacedOpt-selected {
+    color: rgb(0,81,53);
+}
+
+
+
+
+
+
+
+a {
+    text-decoration: none !important;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+
+.container {
+    display: block;
+    width: auto;
+    height: auto;
+    margin-left: 60px;
+    margin-right: auto;
+    margin-top: auto;
+    text-align: center;
+}
+
+.carre {
+    display: block;
+    position: relative;
+    width: 160px;
+    height: 160px;
+    border: 0px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 20px;
+    font-family: arial black;
+    font-size: 18px;
+    line-height: 20px;
+    color: rgba(255,255,255,0.5);
+    text-transform: uppercase;
+    box-shadow: inset 0px 0px 0px 0px rgba(0,0,0,0.5);
+    transition: all 0.2s ease-in-out;
+}
+
+    .carre:active, .carre:hover {
+        color: rgba(255,255,255,1);
+    }
+
+
+    .carre:active, .picto:active {
+        margin-bottom: -10px;
+        box-shadow: inset 0px -5px 30px 0px rgba(0,0,0,0.5);
+        -o-box-shadow: inset 0px -5px 30px 0px rgba(0,0,0,0.5);
+        -webkit-box-shadow: inset 0px -5px 30px 0px rgba(0,0,0,0.5);
+        -mz-box-shadow: inset 0px -5px 30px 0px rgba(0,0,0,0.5);
+    }
+
+
+.effet3D {
+    width: 200px;
+    height: 10px;
+    background-color: green;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    transition: all 0.1s ease-in-out;
+}
+
+
+.carre:active + .effet3D, .picto:active {
+    height: 0px;
+}
+
+
+#carre1 {
+    background-color: rgba(238,115,38,1);
+}
+
+.carre:hover .engrenage {
+    fill: rgba(238,115,38,1);
+}
+
+#effet3D_1 {
+    background-color: rgba(212,102,34,1);
+}
+
+#carre2 {
+    background-color: rgba(118,184,42,1);
+}
+
+.carre:hover .feuille {
+    fill: rgba(118,184,42,1);
+}
+
+#effet3D_2 {
+    background-color: rgba(101,158,36,1);
+}
+
+#carre3 {
+    background-color: rgba(0,137,169,1);
+}
+
+.carre:hover .fiole {
+    fill: rgba(0,137,169,1);
+}
+
+#effet3D_3 {
+    background-color: rgba(0,117,143,1);
+}
+
+#carre4 {
+    background-color: rgba(155,19,90,1);
+}
+
+.carre:hover .cible {
+    fill: rgba(155,19,90,1);
+}
+
+#effet3D_4 {
+    background-color: rgba(130,16,75,1);
+}
+
+#carre5 {
+    background-color: rgba(0,108,115,1);
+}
+
+.carre:hover .usine {
+    fill: rgba(0,108,115,1);
+}
+
+#effet3D_5 {
+    background-color: rgba(0,83,89,1);
+}
+
+#carre6 {
+    background-color: rgba(192,59,43,1);
+}
+
+.carre:hover .maillon {
+    fill: rgba(192,59,43,1);
+}
+
+#effet3D_6 {
+    background-color: rgba(166,49,36,1);
+}
+
+#carre7 {
+    background-color: rgba(248,172,0,1);
+}
+
+.carre:hover .monde {
+    fill: rgba(248,172,0,1);
+}
+
+#effet3D_7 {
+    background-color: rgba(222,155,0,1);
+}
+
+#carre8 {
+    background-color: rgba(0,102,69,1);
+}
+
+.carre:hover .locate {
+    fill: rgba(0,102,69,1);
+}
+
+#effet3D_8 {
+    background-color: rgba(0,77,52,1);
+}
+
+#carre9 {
+    background-color: rgb(225,136,0);
+}
+
+.carre:hover .db {
+    fill: rgb(225,136,0);
+}
+
+#effet3D_9 {
+    background-color: rgb(204,123,0);
+}
+
+
+/*
+#carre1 {background-color:#E84E0F;} #effet3D_1{background-color:#b53d0c;}
+#carre2 {background-color:#27A737;} #effet3D_2{background-color:#1c7627;}
+#carre3 {background-color:#007BC4;} #effet3D_3{background-color:#005689;}
+#carre4 {background-color:#B14191;} #effet3D_4{background-color:#782c62;}
+#carre5 {background-color:#E5005B;} #effet3D_5{background-color:#8e0038;}
+#carre6 {background-color:#F6A000;} #effet3D_6{background-color:#bc7a00;}
+#carre7 {background-color:#E30613;} #effet3D_7{background-color:#a2040e;}
+#carre8 {background-color:#00867A;} #effet3D_8{background-color:#004e47;}
+*/
+
+.cartouche {
+    display: block;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: rgba(255,255,255,0);
+    border: 1px solid rgba(255,255,255,0.2);
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-top: 0px;
+    margin-left: -30px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 100px 0px rgba(255,255,255,0.8);
+    -o-box-shadow: 0px 0px 100px 0px rgba(255,255,255,0.2);
+    -webkit-box-shadow: 0px 0px 100px 0px rgba(255,255,255,0.2);
+    -mz-box-shadow: 0px 0px 100px 0px rgba(255,255,255,0.2);
+    transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    -mz-transition: all 1s ease-in-out;
+}
+
+.carre:hover .cartouche {
+    background-color: rgba(255,255,255,0.5);
+    border: 1px solid rgba(255,255,255,0.5);
+    box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.2);
+    -o-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.2);
+    -webkit-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.2);
+    -mz-box-shadow: 0px 0px 20px 0px rgba(255,255,255,0.2);
+}
+
+
+.carre .picto {
+    opacity: 0.2;
+    transition: opacity 1s ease-in-out;
+    -o-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+    -mz-transition: opacity 1s ease-in-out;
+}
+
+.carre:hover .picto {
+    opacity: 1;
+}
+
+.engrenage, .feuille, .fiole, .cible, .usine, .maillon, .monde, .locate, .db {
+    fill: #FFFFFF;
+    opacity: 0.2;
+    transform-origin: 50% 50%;
+    transform: rotate(0deg);
+    transition: all 1s ease-in-out;
+    -o-transform-origin: 50% 50%;
+    -o-transform: rotate(0deg);
+    -o-transition: all 1s ease-in-out;
+    -webkit-transform-origin: 50% 50%;
+    -webkit-transform: rotate(0deg);
+    -webkit-transition: all 1s ease-in-out;
+    -mz-transform-origin: 50% 50%;
+    -mz-transform: rotate(0deg);
+    -mz-transition: all 1s ease-in-out;
+}
+
+.carre:hover .engrenage, .carre:hover .feuille, .carre:hover .fiole, .carre:hover .cible, .carre:hover .usine, .carre:hover .maillon, .carre:hover .monde, .carre:hover .locate, .carre:hover .db {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+    -o-transition: opacity 0.2s ease-in-out;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    -mz-transition: opacity 0.2s ease-in-out;
+    transform: rotate(360deg);
+    transform-origin: 50% 50%;
+    transition: transform 3s ease-in-out;
+    -o-transition: transform 3s ease-in-out;
+    -webkit-transition: transform 3s ease-in-out;
+    -mz-transition: transform 3s ease-in-out;
+    -o-transform: rotate(360deg);
+    -o-transform-origin: 50% 50%;
+    -o-transition: transform 3s ease-in-out;
+    -webkit-transform: rotate(360deg);
+    -webkit-transform-origin: 50% 50%;
+    -webkit-transition: transform 3s ease-in-out;
+    -mz-transform: rotate(360deg);
+    -mz-transform-origin: 50% 50%;
+    -mz-transition: transform 3s ease-in-out;
+}
+
+
+
+
+
+
+
+
+
+#cssmenu ul,
+#cssmenu li,
+#cssmenu span,
+#cssmenu a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(10,10,10,0.8);
+    width: auto;
+}
+
+
+    #cssmenu:after,
+    #cssmenu ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu ul {
+        list-style: none;
+    }
+
+    #cssmenu > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu.align-center {
+        text-align: center;
+    }
+
+        #cssmenu.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu.align-right > ul > li:first-child > a,
+    #cssmenu.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu > ul > li.active > a,
+    #cssmenu > ul > li:hover > a {
+        color: #000000;
+        box-shadow: inset 0 0 3px rgba(10,10,10,0.5);
+        -moz-box-shadow: inset 0 0 3px rgba(10,10,10,0.5);
+        -webkit-box-shadow: inset 0 0 3px rgba(10,10,10,0.5);
+        background: #f2f2f2;
+        background: -moz-linear-gradient(top, #ffffff 0%, #f2f2f2 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f2f2f2));
+        background: -webkit-linear-gradient(top, #ffffff 0%, #f2f2f2 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, #f2f2f2 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, #f2f2f2 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, #f2f2f2 100%);
+    }
+
+    #cssmenu .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu .has-sub ul li a {
+            background: rgba(10,10,10,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: #ffffff;
+        }
+
+        #cssmenu .has-sub ul li:hover a {
+            background: rgba(10,10,10,0.5);
+        }
+
+    #cssmenu ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu.align-right .has-sub .has-sub ul,
+    #cssmenu.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu .has-sub .has-sub ul li a {
+        background: rgba(10,10,10,0.5);
+    }
+
+        #cssmenu .has-sub .has-sub ul li a:hover {
+            background: rgba(10,10,10,0.6);
+        }
+
+    #cssmenu ul ul li.last > a,
+    #cssmenu ul ul li:last-child > a,
+    #cssmenu ul ul ul li.last > a,
+    #cssmenu ul ul ul li:last-child > a,
+    #cssmenu .has-sub ul li:last-child > a,
+    #cssmenu .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+
+#cssmenu1 ul,
+#cssmenu1 li,
+#cssmenu1 span,
+#cssmenu1 a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu1 {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(118,184,42,1);
+    width: auto;
+}
+
+    #cssmenu1:after,
+    #cssmenu1 ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu1 a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu1 ul {
+        list-style: none;
+    }
+
+    #cssmenu1 > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu1.align-center {
+        text-align: center;
+    }
+
+        #cssmenu1.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu1.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu1.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu1.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu1 > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu1 > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu1 > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu1.align-right > ul > li:first-child > a,
+    #cssmenu1.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu1.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu1 > ul > li.active > a,
+    #cssmenu1 > ul > li:hover > a {
+        color: #000000;
+        box-shadow: inset 0 0 3px rgba(118,184,42,1);
+        -moz-box-shadow: inset 0 0 3px rgba(118,184,42,1);
+        -webkit-box-shadow: inset 0 0 3px rgba(118,184,42,1);
+        background: rgba(118,184,42,1);
+        background: -moz-linear-gradient(top, #ffffff 0%, rgba(118,184,42,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, rgba(118,184,42,1)));
+        background: -webkit-linear-gradient(top, #ffffff 0%, rgba(118,184,42,1) 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, rgba(118,184,42,1) 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, rgba(118,184,42,1) 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, rgba(118,184,42,1) 100%);
+    }
+
+    #cssmenu1 .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu1 .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu1 .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu1.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu1 .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu1 .has-sub ul li a {
+            background: rgba(118,184,42,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: #ffffff;
+        }
+
+        #cssmenu1 .has-sub ul li:hover a {
+            background: rgba(118,184,42,0.5);
+        }
+
+    #cssmenu1 ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu1 .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu1 .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu1.align-right .has-sub .has-sub ul,
+    #cssmenu1.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu1 .has-sub .has-sub ul li a {
+        background: rgba(118,184,42,0.5);
+    }
+
+        #cssmenu1 .has-sub .has-sub ul li a:hover {
+            background: rgba(118,184,42,0.6);
+        }
+
+    #cssmenu1 ul ul li.last > a,
+    #cssmenu1 ul ul li:last-child > a,
+    #cssmenu1 ul ul ul li.last > a,
+    #cssmenu1 ul ul ul li:last-child > a,
+    #cssmenu1 .has-sub ul li:last-child > a,
+    #cssmenu1 .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+#cssmenu2 ul,
+#cssmenu2 li,
+#cssmenu2 span,
+#cssmenu2 a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu2 {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(0,137,169,1);
+    width: auto;
+}
+
+    #cssmenu2:after,
+    #cssmenu2 ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu2 a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu2 ul {
+        list-style: none;
+    }
+
+    #cssmenu2 > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu2.align-center {
+        text-align: center;
+    }
+
+        #cssmenu2.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu2.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu2.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu2.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu2 > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu2 > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu2 > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu2.align-right > ul > li:first-child > a,
+    #cssmenu2.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu2.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu2 > ul > li.active > a,
+    #cssmenu2 > ul > li:hover > a {
+        color: #ffffff;
+        box-shadow: inset 0 0 3px rgba(0,137,169,1);
+        -moz-box-shadow: inset 0 0 3px rgba(0,137,169,1);
+        -webkit-box-shadow: inset 0 0 3px rgba(0,137,169,1));
+        background: rgba(0,137,169,1);
+        background: -moz-linear-gradient(top, #ffffff 0%, rgba(0,137,169,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, rgba(0,137,169,1)));
+        background: -webkit-linear-gradient(top, #ffffff 0%, rgba(0,137,169,1) 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, rgba(0,137,169,1) 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, rgba(0,137,169,1) 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, rgba(0,137,169,1) 100%);
+    }
+
+    #cssmenu2 .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu2 .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu2 .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu2.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu2 .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu2 .has-sub ul li a {
+            background: rgba(0,137,169,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: black;
+        }
+
+        #cssmenu2 .has-sub ul li:hover a {
+            background: rgba(0,137,169,0.5);
+        }
+
+    #cssmenu2 ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu2 .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu2 .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu2.align-right .has-sub .has-sub ul,
+    #cssmenu2.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu2 .has-sub .has-sub ul li a {
+        background: rgba(0,137,169,0.5);
+    }
+
+        #cssmenu2 .has-sub .has-sub ul li a:hover {
+            background: rgba(0,137,169,0.6);
+        }
+
+    #cssmenu2 ul ul li.last > a,
+    #cssmenu2 ul ul li:last-child > a,
+    #cssmenu2 ul ul ul li.last > a,
+    #cssmenu2 ul ul ul li:last-child > a,
+    #cssmenu2 .has-sub ul li:last-child > a,
+    #cssmenu2 .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+
+#cssmenu3 ul,
+#cssmenu3 li,
+#cssmenu3 span,
+#cssmenu3 a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu3 {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(0,108,115,1);
+    width: auto;
+}
+
+    #cssmenu3:after,
+    #cssmenu3 ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu3 a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu3 ul {
+        list-style: none;
+    }
+
+    #cssmenu3 > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu3.align-center {
+        text-align: center;
+    }
+
+        #cssmenu3.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu3.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu3.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu3.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu3 > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu3 > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu3 > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu3.align-right > ul > li:first-child > a,
+    #cssmenu3.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu3.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu3 > ul > li.active > a,
+    #cssmenu3 > ul > li:hover > a {
+        color: #ffffff;
+        box-shadow: inset 0 0 3px rgba(0,108,115,1);
+        -moz-box-shadow: inset 0 0 3px rgba(0,108,115,1);
+        -webkit-box-shadow: inset 0 0 3px rgba(0,108,115,1));
+        background: rgba(0,108,115,1);
+        background: -moz-linear-gradient(top, #ffffff 0%, rgba(0,108,115,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, rgba(0,108,115,1)));
+        background: -webkit-linear-gradient(top, #ffffff 0%, rgba(0,108,115,1) 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, rgba(0,108,115,1) 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, rgba(0,108,115,1) 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, rgba(0,108,115,1) 100%);
+    }
+
+    #cssmenu3 .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu3 .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu3 .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu3.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu3 .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu3 .has-sub ul li a {
+            background: rgba(0,108,115,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: black;
+        }
+
+        #cssmenu3 .has-sub ul li:hover a {
+            background: rgba(0,108,115,0.5);
+        }
+
+    #cssmenu3 ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu3 .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu3 .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu3.align-right .has-sub .has-sub ul,
+    #cssmenu3.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu3 .has-sub .has-sub ul li a {
+        background: rgba(0,108,115,0.5);
+    }
+
+        #cssmenu3 .has-sub .has-sub ul li a:hover {
+            background: rgba(0,108,115,0.6);
+        }
+
+    #cssmenu3 ul ul li.last > a,
+    #cssmenu3 ul ul li:last-child > a,
+    #cssmenu3 ul ul ul li.last > a,
+    #cssmenu3 ul ul ul li:last-child > a,
+    #cssmenu3 .has-sub ul li:last-child > a,
+    #cssmenu3 .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+
+
+#cssmenu4 ul,
+#cssmenu4 li,
+#cssmenu4 span,
+#cssmenu4 a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu4 {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(248,172,0,1);
+    width: auto;
+}
+
+    #cssmenu4:after,
+    #cssmenu4 ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu4 a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu4 ul {
+        list-style: none;
+    }
+
+    #cssmenu4 > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu4.align-center {
+        text-align: center;
+    }
+
+        #cssmenu4.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu4.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu4.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu4.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu4 > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu4 > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu4 > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu4.align-right > ul > li:first-child > a,
+    #cssmenu4.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu4.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu4 > ul > li.active > a,
+    #cssmenu4 > ul > li:hover > a {
+        color: #ffffff;
+        box-shadow: inset 0 0 3px rgba(248,172,0,1);
+        -moz-box-shadow: inset 0 0 3px rgba(248,172,0,1);
+        -webkit-box-shadow: inset 0 0 3px rgba(248,172,0,1));
+        background: rgba(248,172,0,1);
+        background: -moz-linear-gradient(top, #ffffff 0%, rgba(248,172,0,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, rgba(248,172,0,1)));
+        background: -webkit-linear-gradient(top, #ffffff 0%, rgba(248,172,0,1) 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, rgba(248,172,0,1) 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, rgba(248,172,0,1) 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, rgba(248,172,0,1) 100%);
+    }
+
+    #cssmenu4 .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu4 .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu4 .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu4.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu4 .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu4 .has-sub ul li a {
+            background: rgba(248,172,0,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: black;
+        }
+
+        #cssmenu4 .has-sub ul li:hover a {
+            background: rgba(248,172,0,0.5);
+        }
+
+    #cssmenu4 ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu4 .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu4 .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu4.align-right .has-sub .has-sub ul,
+    #cssmenu4.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu4 .has-sub .has-sub ul li a {
+        background: rgba(248,172,0,0.5);
+    }
+
+        #cssmenu4 .has-sub .has-sub ul li a:hover {
+            background: rgba(248,172,0,0.6);
+        }
+
+    #cssmenu4 ul ul li.last > a,
+    #cssmenu4 ul ul li:last-child > a,
+    #cssmenu4 ul ul ul li.last > a,
+    #cssmenu4 ul ul ul li:last-child > a,
+    #cssmenu4 .has-sub ul li:last-child > a,
+    #cssmenu4 .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+
+
+#cssmenu5 ul,
+#cssmenu5 li,
+#cssmenu5 span,
+#cssmenu5 a {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+#cssmenu5 {
+    line-height: 1;
+    border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    background: none;
+    border-bottom: 2px solid rgba(155,19,90,1);
+    width: auto;
+}
+
+    #cssmenu5:after,
+    #cssmenu5 ul:after {
+        content: '';
+        display: block;
+        clear: both;
+    }
+
+    #cssmenu5 a {
+        background: none;
+        color: #ffffff;
+        display: block;
+        font-family: Helvetica, Arial, Verdana, sans-serif;
+        padding: 19px 20px;
+        text-decoration: none;
+    }
+
+    #cssmenu5 ul {
+        list-style: none;
+    }
+
+    #cssmenu5 > ul > li {
+        display: inline-block;
+        float: left;
+        margin: 0;
+    }
+
+    #cssmenu5.align-center {
+        text-align: center;
+    }
+
+        #cssmenu5.align-center > ul > li {
+            float: none;
+        }
+
+        #cssmenu5.align-center ul ul {
+            text-align: left;
+        }
+
+    #cssmenu5.align-right > ul {
+        float: right;
+    }
+
+    #cssmenu5.align-right ul ul {
+        text-align: right;
+    }
+
+    #cssmenu5 > ul > li > a {
+        color: #000000;
+        font-size: 14px;
+    }
+
+    #cssmenu5 > ul > li:hover:after {
+        content: '';
+        display: block;
+        width: 0;
+        height: 0;
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        margin-left: -10px;
+    }
+
+    #cssmenu5 > ul > li:first-child > a {
+        border-radius: 5px 0 0 0;
+        -moz-border-radius: 5px 0 0 0;
+        -webkit-border-radius: 5px 0 0 0;
+    }
+
+    #cssmenu5.align-right > ul > li:first-child > a,
+    #cssmenu5.align-center > ul > li:first-child > a {
+        border-radius: 0;
+        -moz-border-radius: 0;
+        -webkit-border-radius: 0;
+    }
+
+    #cssmenu5.align-right > ul > li:last-child > a {
+        border-radius: 0 5px 0 0;
+        -moz-border-radius: 0 5px 0 0;
+        -webkit-border-radius: 0 5px 0 0;
+    }
+
+    #cssmenu5 > ul > li.active > a,
+    #cssmenu5 > ul > li:hover > a {
+        color: #ffffff;
+        box-shadow: inset 0 0 3px rgba(155,19,90,1);
+        -moz-box-shadow: inset 0 0 3px rgba(155,19,90,1);
+        -webkit-box-shadow: inset 0 0 3px rgba(155,19,90,1));
+        background: rgba(155,19,90,1);
+        background: -moz-linear-gradient(top, #ffffff 0%, rgba(155,19,90,1) 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, rgba(155,19,90,1)));
+        background: -webkit-linear-gradient(top, #ffffff 0%, rgba(155,19,90,1) 100%);
+        background: -o-linear-gradient(top, #ffffff 0%, rgba(155,19,90,1) 100%);
+        background: -ms-linear-gradient(top, #ffffff 0%, rgba(155,19,90,1) 100%);
+        background: linear-gradient(to bottom, #ffffff 0%, rgba(155,19,90,1) 100%);
+    }
+
+    #cssmenu5 .has-sub {
+        z-index: 1;
+    }
+
+        #cssmenu5 .has-sub:hover > ul {
+            display: block;
+        }
+
+        #cssmenu5 .has-sub ul {
+            display: none;
+            position: absolute;
+            width: 200px;
+            top: 100%;
+            left: 0;
+        }
+
+    #cssmenu5.align-right .has-sub ul {
+        left: auto;
+        right: 0;
+    }
+
+    #cssmenu5 .has-sub ul li {
+        margin-bottom: -1px;
+    }
+
+        #cssmenu5 .has-sub ul li a {
+            background: rgba(155,19,90,0.4);
+            font-size: 11px;
+            filter: none;
+            display: block;
+            line-height: 120%;
+            padding: 10px;
+            color: black;
+        }
+
+        #cssmenu5 .has-sub ul li:hover a {
+            background: rgba(155,19,90,0.5);
+        }
+
+    #cssmenu5 ul ul li:hover > a {
+        color: #ffffff;
+    }
+
+    #cssmenu5 .has-sub .has-sub:hover > ul {
+        display: block;
+    }
+
+    #cssmenu5 .has-sub .has-sub ul {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: 0;
+    }
+
+    #cssmenu5.align-right .has-sub .has-sub ul,
+    #cssmenu5.align-right ul ul ul {
+        left: auto;
+        right: 100%;
+    }
+
+    #cssmenu5 .has-sub .has-sub ul li a {
+        background: rgba(155,19,90,0.5);
+    }
+
+        #cssmenu5 .has-sub .has-sub ul li a:hover {
+            background: rgba(155,19,90,0.6);
+        }
+
+    #cssmenu5 ul ul li.last > a,
+    #cssmenu5 ul ul li:last-child > a,
+    #cssmenu5 ul ul ul li.last > a,
+    #cssmenu5 ul ul ul li:last-child > a,
+    #cssmenu5 .has-sub ul li:last-child > a,
+    #cssmenu5 .has-sub ul li.last > a {
+        border-bottom: 0;
+    }
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1400px) {
+
+    #sideNavBox {
+        display: none;
+    }
+
+    span.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode {
+        font-size: 16px;
+    }
+
+    a.static.menu-item.ms-core-listMenu-item.ms-displayInline.ms-navedit-linkNode {
+        font-size: 12px;
+    }
+
+
+    input#ctl00_PlaceHolderSearchArea_SmallSearchInputBox1_csr_sbox {
+        max-width: 80px;
+    }
+
+    div#embed {
+        max-width: 300px;
+        max-height: 400px;
+    }
+
+
+    a {
+        text-decoration: none !important;
+        font-size: 12px;
+        font-family: Arial;
+    }
+
+
+    .container {
+        display: block;
+        width: auto;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .carre {
+        display: block;
+        position: relative;
+        width: 100px;
+        height: 100px;
+        border: 0px solid;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        padding: 10px;
+        font-family: arial black;
+        font-size: 12px;
+        line-height: 10px;
+        color: rgba(255,255,255,0.5);
+        text-transform: uppercase;
+        box-shadow: inset 0px 0px 0px 0px rgba(0,0,0,0.5);
+        transition: all 0.2s ease-in-out;
+    }
+
+        .carre:active, .carre:hover {
+            color: rgba(255,255,255,1);
+        }
+
+
+        .carre:active, .picto:active {
+            margin-bottom: -5px;
+            box-shadow: inset 0px -2px 15px 0px rgba(0,0,0,0.5);
+            -o-box-shadow: inset 0px -2px 15px 0px rgba(0,0,0,0.5);
+            -webkit-box-shadow: inset 0px -2px 15px 0px rgba(0,0,0,0.5);
+            -mz-box-shadow: inset 0px -2px 15px 0px rgba(0,0,0,0.5);
+        }
+
+
+    .effet3D {
+        width: 120px;
+        height: 5px;
+        background-color: green;
+        margin-top: -5px;
+        margin-left: 5px;
+        margin-right: 5px;
+        transition: all 0.1s ease-in-out;
+    }
+
+
+    .carre:active + .effet3D, .picto:active {
+        height: 0px;
+    }
+
+
+
+    .cartouche {
+        display: block;
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        background-color: rgba(255,255,255,0);
+        border: 1px solid rgba(255,255,255,0.2);
+        text-align: center;
+        top: 50%;
+        left: 50%;
+        margin-top: 0px;
+        margin-left: -15px;
+        border-radius: 50%;
+        box-shadow: 0px 0px 50px 0px rgba(255,255,255,0.8);
+        -o-box-shadow: 0px 0px 50px 0px rgba(255,255,255,0.2);
+        -webkit-box-shadow: 0px 0px 50px 0px rgba(255,255,255,0.2);
+        -mz-box-shadow: 0px 0px 50px 0px rgba(255,255,255,0.2);
+        transition: all 1s ease-in-out;
+        -o-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+        -mz-transition: all 1s ease-in-out;
+    }
+
+    .carre:hover .cartouche {
+        background-color: rgba(255,255,255,0.5);
+        border: 1px solid rgba(255,255,255,0.5);
+        box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.2);
+        -o-box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.2);
+        -webkit-box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.2);
+        -mz-box-shadow: 0px 0px 10px 0px rgba(255,255,255,0.2);
+    }
+
+
+    .carre .picto {
+        opacity: 0.2;
+        transition: opacity 1s ease-in-out;
+        -o-transition: opacity 1s ease-in-out;
+        -webkit-transition: opacity 1s ease-in-out;
+        -mz-transition: opacity 1s ease-in-out;
+    }
+
+    .carre:hover .picto {
+        opacity: 1;
+    }
+
+
+
+    #cssmenu > ul > li > a {
+        font-size: 12px;
+    }
+}
